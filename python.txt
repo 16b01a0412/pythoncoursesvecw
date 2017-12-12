@@ -1,0 +1,34 @@
+Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first 
+released in 1991. An interpreted language, Python has a design philosophy that emphasizes code readability (notably using
+whitespace indentation to delimit code blocks rather than curly brackets or keywords), and a syntax that allows programmers to 
+express concepts in fewer lines of code than might be used in languages such as C++ or Java. It provides constructs that enable
+clear programming on both small and large scales
+
+Python features a dynamic type system and automatic memory management. It supports multiple programming paradigms, including object
+-oriented, imperative, functional and procedural, and has a large and comprehensive standard library.
+
+Python interpreters are available for many operating systems. CPython, the reference implementation of Python, is open source
+software and has a community-based development model, as do nearly all of its variant implementations. CPython is managed by the
+non-profit Python Software Foundation.
+
+  Python was conceived in the late 1980, and its implementation began in December 1989 by Guido van Rossum at Centrum
+  Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language (itself inspired by SETL)capable of
+  exception handling and interfacing with the Amoeba operating system. Van Rossum remains Python's principal author. His 
+  continuing central role in Python's development is reflected in the title given to him by the Python community: Benevolent 
+  Dictator For Life (BDFL).
+  The language's core philosophy is summarized in the document The Zen of Python (PEP 20), which includes aphorisms such as:
+
+   * Beautiful is better than ugly
+   * Explicit is better than implicit
+   * Simple is better than complex
+   * Complex is better than complicated
+   * Readability counts
+  Python has been successfully embedded in many software products as a scripting language, including in finite element method 
+  software such as Abaqus, 3D parametric modeler like FreeCAD, 3D animation packages such as 3ds Max, Blender, Cinema 4D, 
+  Lightwave, Houdini, Maya, modo, MotionBuilder, Softimage, the visual effects compositor Nuke, 2D imaging programs like GIMP,
+  Inkscape, Scribus and Paint Shop Pro,and musical notation programs like scorewriter and capella. GNU Debugger uses Python
+  as a pretty printer to show complex structures such as C++ containers. Esri promotes Python as the best choice for writing 
+  scripts in ArcGIS. It has also been used in several video games, and has been adopted as first of the three 
+  available programming languages in Google App Engine, the other two being Java and Go. Python is also used in algorithmic 
+  trading and quantitative finance. Python can also be implemented in APIs of online brokerages that run on other language
+by using wrapper.
